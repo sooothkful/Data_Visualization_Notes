@@ -2,11 +2,11 @@
 ## Aesthetics 
    Quantifiable features of a graphic
 ### An aesthetic can represent:
- **1. Continuous data
+ 1. Continuous data
   
- **2. Discrete data
+ 2. Discrete data
   
- **3. Both
+ 3. Both
 
 ## Scales 
    Map data values onto aesthetics
@@ -41,34 +41,51 @@
 
 ## Distributions
 ### Histograms
+
   **Single distributions**
   
+  
   **Multiple distributions**
+  
   
 ### Density Plots
-  **Single distributions**
+
+ **Single distributions**
+ 
   
-  **Multiple distributions**
+ **Multiple distributions**
+
 
 ### Emperical Cumulative Distributions
-  **Highly Skewed Distributions**
+
+ **Highly Skewed Distributions**
   
-  **Q-Q Plots**
+  
+ **Q-Q Plots**
+
 
 ### Visualizing many distributions at once
-  **Boxplots**
+
+ **Boxplots**
+  
   
   **Violins**
   
-  **Strip Charts**
   
-  **Sina Plots**
+ **Strip Charts**
   
-  **Stacked Histograms**
   
-  **Overlapping Densities**
+ **Sina Plots**
   
-  **Ridgeline Plots
+  
+ **Stacked Histograms**
+  
+  
+ **Overlapping Densities**
+  
+  
+ **Ridgeline Plots**
+  
   
 ## Proportions
 ### Pie Charts
@@ -76,13 +93,19 @@
 ### Stacked Bars & Stacked Densities
 ### Proportions as part of a whole
 ### Nested Proportions
-  **Mosiac Plots**
+
+
+ **Mosiac Plots**
   
-  **Treemaps**
   
-  **Nested Pies**
+ **Treemaps**
   
-  **Parallel Sets**
+  
+ **Nested Pies**
+  
+  
+ **Parallel Sets**
+
 
 ## Multiple Quantitative Variables
 ### Scatter plots
@@ -92,13 +115,18 @@
 
 ## Visualizations of Independent Variables
 ### Time Series
-  **Individual Time Series**
+
+ **Individual Time Series**
   
-  **Multiple Time Series**
   
-  **Dose-response Curves**
+ **Multiple Time Series**
   
-  **Two or more response variables**
+  
+ **Dose-response Curves**
+  
+  
+ **Two or more response variables**
+  
   
 ## Trends
 ### Smoothing
