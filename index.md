@@ -1,37 +1,136 @@
-## Welcome to GitHub Pages
+# Mapping Data onto Aesthetics
+## Aesthetics 
+   Quantifiable features of a graphic
+### An aesthetic can represent:
+  **1. Continuous data
+  **2. Discrete data
+  **3. Both
 
-You can use the [editor on GitHub](https://github.com/sooothkful/Data_Visualization_Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Scales 
+   Map data values onto aesthetics
+  
+# Coordinate Systems & Axes
+  
+## Cartesian Coordinates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      
+## Nonlinear Axes
+     
+ 
+      
+ 
+## Curved Axes
 
-### Markdown
+      
+# Color Scales
+     
+## Color as a Tool
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Color to Represent Data Values
+  
+## Color as a Tool to Highlight
 
-```markdown
-Syntax highlighted code block
+# Directory of Visualizations
+  
+## Amounts
+### Bar Plots
+### Grouped and Stacked Bars
+### Dot Plots and Heatmaps
 
-# Header 1
-## Header 2
-### Header 3
+## Distributions
+### Histograms
+  **Single distributions**
+  **Multiple distributions**
+  
+### Density Plots
+  **Single distributions**
+  **Multiple distributions**
 
-- Bulleted
-- List
+### Emperical Cumulative Distributions
+  **Highly Skewed Distributions**
+  **Q-Q Plots**
 
-1. Numbered
-2. List
+### Visualizing many distributions at once
+  **Boxplots**
+  **Violins**
+  **Strip Charts**
+  **Sina Plots**
+  **Stacked Histograms**
+  **Overlapping Densities**
+  **Ridgeline Plots
+  
+## Proportions
+### Pie Charts
+### Side-by-Side Bars
+### Stacked Bars & Stacked Densities
+### Proportions as part of a whole
+### Nested Proportions
+  **Mosiac Plots**
+  **Treemaps**
+  **Nested Pies**
+  **Parallel Sets**
 
-**Bold** and _Italic_ and `Code` text
+## Multiple Quantitative Variables
+### Scatter plots
+### Correlograms
+### Dimension Reduction
+### Paired Data
 
-[Link](url) and ![Image](src)
-```
+## Visualizations of Independent Variables
+### Time Series
+  **Individual Time Series**
+  **Multiple Time Series**
+  **Dose-response Curves
+  **Two or more response variables
+  
+## Trends
+### Smoothing
+### Defined functional form
+### Detrending
+### Time-series decomposition
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Geospatial Data
+### Projections
+### Layers
+### Choropleth Mapping
+### Cartograms
+ 
+## Uncertainty
+### Probabilities as Frequencies
+### Point Estimates
+### Curve Fits
+### Hypothetical Outcome Plots
 
-### Jekyll Themes
+# Proportional Ink
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sooothkful/Data_Visualization_Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Handling Overlapping Points
 
-### Support or Contact
+# Mistakes to Avoid
+## Color
+## Redundant Coding
+## Multi-panel Figures
+## Titles, Captions, Tables
+## Context
+## Axis Labels
+## Line Drawings
+## 3D
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# File Formats
+## Bitmap & Vector
+## Compression
+## Converting image formats
+
+# Software
+## Reproducibility & Repeatability
+## Exploration vs Presentation
+## Content & Design
+
+# Storytelling
+## Figures
+## Consistency vs Repetitiveness
+
+
+
+      
+
+
