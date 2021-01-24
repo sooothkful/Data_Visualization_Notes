@@ -2,8 +2,11 @@
 ## Aesthetics 
    Quantifiable features of a graphic
 ### An aesthetic can represent:
+
   **1. Continuous data
+  
   **2. Discrete data
+  
   **3. Both
 
 ## Scales 
